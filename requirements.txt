@@ -1,0 +1,7 @@
+pandas
+numpy
+sqlalchemy
+statsmodels
+psycopg2-binary  # or your specific SQL driver
+jupyter
+pytest
