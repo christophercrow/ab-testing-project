@@ -2,7 +2,7 @@ README.md
 
 # A/B Testing and Experimentation Project
 
-This repository implements a robust A/B testing framework to evaluate the impact of targeted UI modifications on user behavior. The project uses Python for data extraction, SQL for querying a PostgreSQL database, and Statsmodels for statistical analysis.
+This repository implements a A/B testing framework to evaluate the impact of targeted UI modifications on user behavior. The project uses Python for data extraction, SQL for querying a PostgreSQL database, and Statsmodels for statistical analysis.
 
 ## Project Structure
 
